@@ -27,7 +27,7 @@ Made with **Thugh-TUI** framework by a Venezuelan girl energy 🌴💖
 ### How to run
 
 ```bash
-git clone https://github.com/YOURUSERNAME/mi-glow.git
+git clone https://github.com/PixelValeria/mi-glow.git
 cd mi-glow
 chmod +x mi-glow.sh
 ./mi-glow.sh
